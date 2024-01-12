@@ -1,0 +1,15 @@
+
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(ïŽŽ¾
+4
+java:S2676P"Use the original value instead.(Ô›Üq
+H
+java:S1135
+"2Complete the task associated to this TODO comment.(Üð£Å
+N	java:S106c"9Replace this use of System.out or System.err by a logger.(–ÙÑÇ
+S	java:S106i"9Replace this use of System.out or System.err by a logger.(‰®Ìçùÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÉŽÍ´ùÿÿÿÿ8»Îöè©.
+a
+java:S2153Y"FRemove the boxing to "Long"; The argument is already of the same type.(ÁíÉºÿÿÿÿÿ
+K
+java:S1144 ")Remove this unused private "aaaa" method.(²®é»úÿÿÿÿ8»Îöè©.
+M	java:S106P"9Replace this use of System.out or System.err by a logger.(Ô›Üq

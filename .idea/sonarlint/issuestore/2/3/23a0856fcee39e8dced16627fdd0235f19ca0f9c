@@ -1,0 +1,25 @@
+
+P
+java:S1128"3Remove this unused import 'java.text.NumberFormat'.(¿¸»8î«Í§“.
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(ŞÊØÏ8ˆ§Û£.
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(É©Ú8†Èº†¥.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã´½x
+U
+java:S1128"3Remove this unused import 'org.joda.time.DateTime'.(×¥…©úÿÿÿÿ8šœ¥Û£.
+T	java:S106."9Replace this use of System.out or System.err by a logger.(­º¡88ë¹Ù£.
+N
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8î«Í§“.
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ÇëÆƒ
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(İßÅŒıÿÿÿÿ8ÒéäÙ£.
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(”Îùïùÿÿÿÿ
+U	java:S106("9Replace this use of System.out or System.err by a logger.(¤™ï×8†Èº†¥.
+K
+java:S1481!")Remove this unused "date" local variable.(”Ç©šùÿÿÿÿ8ˆÊ¦Û£.
+O
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ8î«Í§“.
+c
+java:S3986&"HMake sure that Week Year "YYYY" is expected here instead of Year "yyyy".(¬…å†üÿÿÿÿ
+e
+java:S3986-"HMake sure that Week Year "YYYY" is expected here instead of Year "yyyy".(™—8õ¼¸Ù£.
+Q
+java:S1128"4Remove this unused import 'java.text.DecimalFormat'.(¤°Ó˜8î«Í§“.

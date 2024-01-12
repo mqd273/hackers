@@ -1,0 +1,14 @@
+
+B
+java:S1068."'Remove this unused "age" private field.(Æ€‘øÿÿÿÿ
+C
+java:S1068,"(Remove this unused "name" private field.(ç²Œşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(»¢îÈ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(åä€çøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŒçÒÊÿÿÿÿÿ
+H
+java:S1135"2Complete the task associated to this TODO comment.(Üğ£Å
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Æˆßâøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ü–¡ôúÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îéÅíúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Åñ‡Æ

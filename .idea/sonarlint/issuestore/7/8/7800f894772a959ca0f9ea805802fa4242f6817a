@@ -1,0 +1,18 @@
+
+c
+java:S2095""MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÿÓøÉ
+E
+java:S1066-"/Merge this if statement with the enclosing one.(¼Á´Ò
+E
+java:S1066>"/Merge this if statement with the enclosing one.(í·…
+e
+java:S2674$"JCheck the return value of the "read" call to see how many bytes were read.(„áå¦ıÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(ØÂ¹Ùşÿÿÿÿ
+>	java:S1082")Either remove or fill this block of code.(¼Á´Ò
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(âº³«øÿÿÿÿ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(«¯
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(óÕ¼£şÿÿÿÿ
+D
+java:S1481")Remove this unused "objB" local variable.(÷Áï¼øÿÿÿÿ
+?
+java:S1481")Remove this unused "read" local variable.(²ĞÇ½

@@ -1,0 +1,16 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ì¿¸ıÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÇÔà¿
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§ª¿²ÿÿÿÿÿ
+d
+java:S1128"IRemove this unused import 'com.sun.org.apache.xpath.internal.SourceTree'.(ì¿¸ıÿÿÿÿ
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(ú¸áİ8¢ „ì².
+I
+java:S1481-"'Remove this unused "a1" local variable.(¤ôùÿÿÿÿ8¢ „ì².
+I
+java:S1481/"'Remove this unused "a2" local variable.(à¢Ã÷úÿÿÿÿ8¢ „ì².
+Q
+java:S1481"4Remove this unused "innerClassJson1" local variable.(ı…ú®8­Ü†ì².
+E
+java:S1481""(Remove this unused "url" local variable.(Ğª¦°8­Ü†ì².

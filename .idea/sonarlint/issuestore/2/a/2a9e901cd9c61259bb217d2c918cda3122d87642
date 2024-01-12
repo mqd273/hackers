@@ -1,0 +1,15 @@
+
+T	java:S106"9Replace this use of System.out or System.err by a logger.(°®>8¨ÛÔÏ”/
+X
+java:S1764+"6Correct one of the identical argument sub-expressions.(úã÷ùÿÿÿÿ8‚ùµ«”/
+Q
+java:S1128"5Remove this unused import 'com.tujia.genericity.Obj'.(í’¸8‚ùµ«”/
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ø³É¿8‚ùµ«”/
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(›ãŠ¼ùÿÿÿÿ8‚ùµ«”/
+D
+java:S1481!"'Remove this unused "l1" local variable.(¹û 8›šÛÏ”/
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ˆ÷·ºüÿÿÿÿ8‚ùµ«”/
+O
+java:S1135"2Complete the task associated to this TODO comment.(Üğ£Å8‚ùµ«”/
+—
+java:S2159"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(¹Õçë8¨ÛÔÏ”/

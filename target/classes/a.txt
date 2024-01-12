@@ -1,0 +1,576 @@
+{
+	"data": {
+		"active": false,
+		"auditStatus": 1,
+		"baseInfo": {
+			"bedInfo": [{
+					"number": 1,
+					"unitAmenityGoodsID": 16,
+					"unitAmenityGoodsSpecID": 13
+				}
+			],
+			"coverGuid": "b249e206-22ad-4dcf-8490-96a59b0a23fc",
+			"enumHouseType": 1,
+			"enumScenicFeature": 0,
+			"enumSharingType": 1,
+			"grossArea": 23,
+			"housingType": {
+				"balconyCount": 0,
+				"bathroomCount": 1,
+				"bedroomCount": 1,
+				"kitchenCount": 0,
+				"livingroomCount": 0,
+				"shareBathroom": false,
+				"studyCount": 0
+			},
+			"instanceCount": 13,
+			"otaName": "经典一室大床房",
+			"sourceCertify": -1
+		},
+		"basement": -1,
+		"bedInfoDesc": [{
+				"number": 1,
+				"unitAmenityGoodsDesc": "大床",
+				"unitAmenityGoodsID": 16,
+				"unitAmenityGoodsSpecDesc": "2×1.8米",
+				"unitAmenityGoodsSpecID": 13
+			}
+		],
+		"canSale": 2,
+		"checkinInstructions": {
+			"acceptLanguage": 0,
+			"acceptTime": [{
+					"endAcceptTime": "24:00",
+					"startAcceptTime": "00:00"
+				}
+			],
+			"checkInReceptionTime": "14:00",
+			"checkOutLatestTime": "12:00",
+			"commercialShooting": "",
+			"communityProfile": {
+				"accessoriesSummary": "",
+				"buildYear": "",
+				"facilities": [],
+				"feature": "",
+				"greening": 0,
+				"housePictures": [],
+				"id": 0,
+				"introduction": "",
+				"name": "",
+				"parking": "",
+				"schematicPictures": [],
+				"security": ""
+			},
+			"compensation": "",
+			"cookingChargeDescription": "",
+			"enumAcceptAges": [1, 2],
+			"enumAcceptSex": 0,
+			"enumCleaningFrequency": 1,
+			"enumHouseFacilities": [64, 19, 2, 3, 8, 9, 15, 68, 5, 21, 37, 79, 42, 44, 56, 61, 82, 66, 83, 6],
+			"enumIndoorPermits": [],
+			"enumServiceProvisions": [],
+			"enumSheetReplaceFrequency": 1,
+			"enumToothSetReplaceFrequency": 1,
+			"enumTowelReplaceFrequency": 1,
+			"extraBedChargeDescription": "",
+			"extraBedLimit": 0,
+			"fastBooking": false,
+			"houseDesc": "洪金宝 vvvv 回家把家居服骨灰盒沟沟壑壑家家户户哈哈不好就会给跟风狗虎吃不饱 v 给哥哥哥哥哥哥",
+			"houseLightspotFor4wd": {
+				"facilityHighLight": "",
+				"geoPosHighLight": "",
+				"highLightDes": "",
+				"unitBackGround": "",
+				"vAService": ""
+			},
+			"livingFee": "",
+			"minRequireNights": 1,
+			"otherCheckinNotes": "",
+			"partyChargeDescription": "",
+			"recommendedGuests": 2,
+			"surroundingDesc": "",
+			"trafficDesc": ""
+		},
+		"createOperator": "18518093191",
+		"createOperatorId": 7455721,
+		"createTime": "2018-06-22 14:43:49",
+		"currencyStr": "",
+		"distributionChannel": 262143,
+		"enumAcceptAgesDescDesc": [{
+				"desc": "儿童（0-12岁）",
+				"enumId": 1,
+				"status": true
+			}, {
+				"desc": "老人（65岁以上）",
+				"enumId": 2,
+				"status": true
+			}
+		],
+		"enumAcceptSexDesc": {
+			"desc": "不限",
+			"enumId": 0,
+			"status": true
+		},
+		"enumCleaningFrequencyDesc": {
+			"desc": "1客1扫",
+			"enumId": 1,
+			"status": true
+		},
+		"enumDataEntityStatus": 0,
+		"enumHouseTypeDesc": {
+			"desc": "普通公寓",
+			"enumId": 1,
+			"status": true
+		},
+		"enumIndoorPermitsDesc": [],
+		"enumLocationDesc": {
+			"cityDesc": "重庆",
+			"cityID": 22,
+			"cityName": "重庆",
+			"doorplate": "",
+			"geoCoordSysType": "bd09ll",
+			"latitude": 29.587277009010045,
+			"level2AreaDesc": "巴南区",
+			"level2AreaID": 659,
+			"level2AreaName": "巴南区",
+			"level3AreaID": 0,
+			"level3AreaName": "",
+			"longitude": 106.56224999999998,
+			"receptionAddress": "",
+			"residentialQuarterName": "中福在线"
+		},
+		"enumScenicFeatureDesc": {
+			"desc": "无",
+			"enumId": 0,
+			"status": true
+		},
+		"enumServiceProvisionsDesc": [],
+		"enumSheetReplaceFrequencyDesc": {
+			"desc": "1客1换",
+			"enumId": 1,
+			"status": true
+		},
+		"enumToothSetReplaceFrequencyDesc": {
+			"desc": "1客1换",
+			"enumId": 1,
+			"status": true
+		},
+		"enumTowelReplaceFrequencyDesc": {
+			"desc": "1客1换",
+			"enumId": 1,
+			"status": true
+		},
+		"firstActiveTime": "1900-01-01 00:00:00",
+		"hotelAuditStatus": "审核通过",
+		"hotelGuid": "8092874b-7065-4f8b-a005-2cd1852b66eb",
+		"hotelId": 1003134,
+		"hotelVo": {
+			"active": true,
+			"areaId": 596,
+			"areaName": "大兴区",
+			"auditStatus": 2,
+			"brand": -1,
+			"changeHotelFastBooking": true,
+			"cityId": 48,
+			"cityName": "北京",
+			"contactPhone": "18518093191",
+			"contactPhoneAnswerTimeBegin": {
+				"hour": 0,
+				"minute": 0,
+				"second": 0
+			},
+			"contactPhoneAnswerTimeEnd": {
+				"hour": 23,
+				"minute": 59,
+				"second": 59
+			},
+			"countryId": 414,
+			"countryName": "中国大陆",
+			"createOperator": "18518093191",
+			"createOperatorId": 7455721,
+			"createTime": "2018-02-08 10:44:25",
+			"customServiceId": 7455721,
+			"decorateTime": "",
+			"enumDataEntityStatus": 0,
+			"fastBookingSwitch": 0,
+			"firstActiveTime": "2018-02-08 10:48:05",
+			"freeInsurance": true,
+			"hotelGuid": "8092874b-7065-4f8b-a005-2cd1852b66eb",
+			"hotelId": 1003134,
+			"hotelName": "婷婷张t2环境测试门店0208",
+			"hotelNumber": "TN00536423",
+			"houseActiveCount": 0,
+			"houseTotalCount": 0,
+			"introduction": "",
+			"landlordChannel": 1,
+			"landlordId": 1002414,
+			"landlordName": "18518093191",
+			"logoURL": "/upload/LandlordStoreLogo/day_180208/201802081045296888.jpg",
+			"operationEmail": "",
+			"operationPhone": [{
+					"operationsFunctions": [5, 3, 4, 1],
+					"phoneNumber": "18518093191",
+					"phoneType": 1
+				}
+			],
+			"orderNonEndTime": {
+				"hour": 0,
+				"minute": 0,
+				"second": 0
+			},
+			"orderNonStartTime": {
+				"hour": 0,
+				"minute": 0,
+				"second": 0
+			},
+			"oversea": false,
+			"phone400": "502755",
+			"phone400Main": "021-80187829",
+			"platformManagerId": 19,
+			"platformManagerName": "王晓宇",
+			"preference": -1,
+			"provideInvoice": false,
+			"provinceId": 423,
+			"provinceName": "北京市",
+			"punished": false,
+			"qualificationType": 3,
+			"rba": false,
+			"receiptForeigner": 0,
+			"receiptLang": [],
+			"support170": true,
+			"supportCredit": 1,
+			"updateOperator": "宋世伟",
+			"updateOperatorId": 6966,
+			"updateTime": "2018-06-13 22:33:08",
+			"welcomes": "舒适的定义或有不同，但家的定义只有一种。"
+		},
+		"houseCharge": {
+			"addPersonItem": {
+				"addPersonCount": 0,
+				"amount": 0
+			},
+			"breakfastItem": {
+				"canAdd": false,
+				"forFree": 0,
+				"perAdd": 0,
+				"remark": ""
+			},
+			"createTime": "2018-06-22 14:44:02",
+			"currency": 8,
+			"depositItem": {
+				"depositAmount": 0,
+				"onlineDeposit": true,
+				"supportCredit": true
+			},
+			"extraChargeItem": {
+				"extraCleaningCharge": 0,
+				"extraSheetChangeCharge": 0,
+				"extraToothSetChangeCharge": 0,
+				"extraTowelChangeCharge": 0
+			},
+			"houseChargeId": 727894,
+			"houseId": 10049129,
+			"updateTime": "2018-06-22 14:44:02"
+		},
+		"houseGuid": "4b9c2520-cf33-46b8-bbba-040ba75d7887",
+		"houseId": 10049129,
+		"houseLevel": -1,
+		"houseName": "ttz06221440",
+		"houseNumber": "HN2025863",
+		"housePicture": [{
+				"enumPictureCategory": 0,
+				"pictureExplain": "",
+				"pictureGuid": "b249e206-22ad-4dcf-8490-96a59b0a23fc",
+				"pictureIndex": 0,
+				"pictureName": "",
+				"pictureURL": "/upload/landlordunit/day_180622/201806221443265948.jpg"
+			}, {
+				"enumPictureCategory": 0,
+				"pictureExplain": "",
+				"pictureGuid": "ebc4963a-b2a3-40e6-a5c6-f21a8c7a12c0",
+				"pictureIndex": 1,
+				"pictureName": "",
+				"pictureURL": "/upload/landlordunit/day_180622/201806221443253870.jpg"
+			}, {
+				"enumPictureCategory": 0,
+				"pictureExplain": "",
+				"pictureGuid": "578291ff-5d58-4c88-95af-27858fcb8667",
+				"pictureIndex": 2,
+				"pictureName": "",
+				"pictureURL": "/upload/landlordunit/day_180622/201806221443262275.jpg"
+			}, {
+				"enumPictureCategory": 0,
+				"pictureExplain": "",
+				"pictureGuid": "b15d3996-2f78-4893-9904-d76fb5e8a8a0",
+				"pictureIndex": 3,
+				"pictureName": "",
+				"pictureURL": "/upload/landlordunit/day_180622/201806221443255122.jpg"
+			}, {
+				"enumPictureCategory": 0,
+				"pictureExplain": "",
+				"pictureGuid": "08840eae-6c34-4aae-853e-c6db13fbbbfb",
+				"pictureIndex": 4,
+				"pictureName": "",
+				"pictureURL": "/upload/landlordunit/day_180622/201806221443267280.jpg"
+			}, {
+				"enumPictureCategory": 0,
+				"pictureExplain": "",
+				"pictureGuid": "f81fab88-1c47-4d7f-8326-9b6f1dc9596a",
+				"pictureIndex": 5,
+				"pictureName": "",
+				"pictureURL": "/upload/landlordunit/day_180622/201806221443278197.jpg"
+			}, {
+				"enumPictureCategory": 0,
+				"pictureExplain": "",
+				"pictureGuid": "40efb596-dc51-468d-b74a-3acd6b5f63d9",
+				"pictureIndex": 6,
+				"pictureName": "",
+				"pictureURL": "/upload/landlordunit/day_180622/201806221443285096.jpg"
+			}, {
+				"enumPictureCategory": 0,
+				"pictureExplain": "",
+				"pictureGuid": "ec0facf5-dd4c-47d6-a41c-b1778425fa95",
+				"pictureIndex": 7,
+				"pictureName": "",
+				"pictureURL": "/upload/landlordunit/day_180622/20180622144328991.jpg"
+			}, {
+				"enumPictureCategory": 0,
+				"pictureExplain": "",
+				"pictureGuid": "605c0496-53c0-431f-a09f-82bbb4c68d93",
+				"pictureIndex": 8,
+				"pictureName": "",
+				"pictureURL": "/upload/landlordunit/day_180622/201806221443316305.jpg"
+			}, {
+				"enumPictureCategory": 0,
+				"pictureExplain": "",
+				"pictureGuid": "59d16577-015b-416d-a841-87709ed65092",
+				"pictureIndex": 9,
+				"pictureName": "",
+				"pictureURL": "/upload/landlordunit/day_180622/20180622144331118.jpg"
+			}
+		],
+		"houseTags": [],
+		"isRba": false,
+		"landlord": {
+			"auditStatus": -1,
+			"channel": 1,
+			"commitionRate": 0.10,
+			"createOperator": "18518093191",
+			"createOperatorId": 7455721,
+			"createTime": "2018-02-08 10:44:25",
+			"email": "",
+			"enumDataEntityStatus": 0,
+			"enumOrderConfirmMode": "1,2,3",
+			"guid": "49d439fa-b02a-47ed-bfcc-c9c513b70f1a",
+			"isGreat": 0,
+			"isNew": 1,
+			"isPunished": -1,
+			"landlordAccount": "",
+			"landlordAccountId": 7455721,
+			"landlordId": 1002414,
+			"landlordName": "18518093191",
+			"landlordPreTel": "+86",
+			"landlordTel": "18518093191",
+			"lastUpdateOperator": "宋世伟",
+			"lastUpdateOperatorId": 6966,
+			"lastUpdateTime": "2018-06-13 22:33:07",
+			"payType": 1,
+			"platformManagerId": 19,
+			"platformManagerName": "王晓宇",
+			"qq": "",
+			"qualificationNumber": "QN00536424",
+			"qualificationType": 3,
+			"realNameVerification": 0,
+			"saleType": 2,
+			"sesameSeeds": 0,
+			"sex": -1,
+			"skype": "",
+			"wechat": ""
+		},
+		"landlordId": 1002414,
+		"lastUpdateOperator": "tns-hds",
+		"lastUpdateOperatorId": 7455721,
+		"lastUpdateTime": "2018-06-22 19:25:44",
+		"liveWithLandlord": 0,
+		"locationInfo": {
+			"cityID": 22,
+			"cityName": "重庆",
+			"doorplate": "",
+			"geoCoordSysType": "bd09ll",
+			"latitude": 29.587277009010045,
+			"level2AreaID": 659,
+			"level2AreaName": "巴南区",
+			"level3AreaID": 0,
+			"level3AreaName": "",
+			"longitude": 106.56224999999998,
+			"receptionAddress": "",
+			"residentialQuarterName": "中福在线"
+		},
+		"qualificationAuditResult": "审核通过",
+		"unitFacilitiesList": [{
+				"enumCode": "AllAirConditioner",
+				"groupId": 1,
+				"groupName": "居家",
+				"iconCode": "e04c",
+				"name": "全部客厅卧室有空调",
+				"orderIndex": 7,
+				"status": true
+			}, {
+				"enumCode": "HotWater",
+				"groupId": 1,
+				"groupName": "洗浴用品",
+				"iconCode": "e057",
+				"name": "全天热水",
+				"orderIndex": 21,
+				"status": true
+			}, {
+				"enumCode": "Broadband",
+				"groupId": 1,
+				"groupName": "居家",
+				"iconCode": "e04e",
+				"name": "有线网络",
+				"orderIndex": 2,
+				"status": true
+			}, {
+				"enumCode": "TV",
+				"groupId": 1,
+				"groupName": "居家",
+				"iconCode": "e043",
+				"name": "电视(55寸以下)",
+				"orderIndex": 3,
+				"status": true
+			}, {
+				"enumCode": "Kettle",
+				"groupId": 1,
+				"groupName": "居家",
+				"iconCode": "e059",
+				"name": "电热水壶",
+				"orderIndex": 5,
+				"status": true
+			}, {
+				"enumCode": "Hairdryer",
+				"groupId": 1,
+				"groupName": "居家",
+				"iconCode": "e03d",
+				"name": "电吹风",
+				"orderIndex": 9,
+				"status": true
+			}, {
+				"enumCode": "DryingRack",
+				"groupId": 1,
+				"groupName": "居家",
+				"iconCode": "e04f",
+				"name": "晾衣架",
+				"orderIndex": 10,
+				"status": true
+			}, {
+				"enumCode": "side_by_siderefrigerator",
+				"groupId": 1,
+				"groupName": "居家",
+				"iconCode": "e11f",
+				"name": "对开门冰箱",
+				"orderIndex": 11,
+				"status": true
+			}, {
+				"enumCode": "WashingMachine",
+				"groupId": 1,
+				"groupName": "居家",
+				"iconCode": "e065",
+				"name": "洗衣机",
+				"orderIndex": 12,
+				"status": true
+			}, {
+				"enumCode": "Soap",
+				"groupId": 1,
+				"groupName": "洗浴用品",
+				"iconCode": "e067",
+				"name": "香皂/洗手液",
+				"orderIndex": 28,
+				"status": true
+			}, {
+				"enumCode": "Karaoke",
+				"groupId": 1,
+				"groupName": "娱乐",
+				"iconCode": "e04a",
+				"name": "卡拉OK/家庭影院",
+				"orderIndex": 41,
+				"status": true
+			}, {
+				"enumCode": "audio_bluetoothspeaker",
+				"groupId": 1,
+				"groupName": "娱乐",
+				"iconCode": "e129",
+				"name": "音响/蓝牙音箱",
+				"orderIndex": 79,
+				"status": true
+			}, {
+				"enumCode": "AccessControl",
+				"groupId": 1,
+				"groupName": "安全",
+				"iconCode": "e053",
+				"name": "门禁系统",
+				"orderIndex": 46,
+				"status": true
+			}, {
+				"enumCode": "FireExtinguisher",
+				"groupId": 1,
+				"groupName": "安全",
+				"iconCode": "e054",
+				"name": "灭火器",
+				"orderIndex": 47,
+				"status": true
+			}, {
+				"enumCode": "VegetableMarket",
+				"groupId": 1,
+				"groupName": "周边（500米内）",
+				"iconCode": "e02e",
+				"name": "菜市场",
+				"orderIndex": 62,
+				"status": true
+			}, {
+				"enumCode": "FreeParking",
+				"groupId": 1,
+				"groupName": "周边（500米内）",
+				"iconCode": "e02f",
+				"name": "免费停车",
+				"orderIndex": 63,
+				"status": true
+			}, {
+				"enumCode": "publicgarden",
+				"groupId": 1,
+				"groupName": "周边（500米内）",
+				"iconCode": "e120",
+				"name": "公共花园",
+				"orderIndex": 82,
+				"status": true
+			}, {
+				"enumCode": "Luggage",
+				"groupId": 1,
+				"groupName": "其他",
+				"iconCode": "e0db",
+				"name": "行李寄存",
+				"orderIndex": 66,
+				"status": true
+			}, {
+				"enumCode": "first_aidkit",
+				"groupId": 1,
+				"groupName": "其他",
+				"iconCode": "e123",
+				"name": "急救包",
+				"orderIndex": 83,
+				"status": true
+			}, {
+				"enumCode": "AirConditioner",
+				"groupId": 1,
+				"groupName": "居家",
+				"iconCode": "e04c",
+				"name": "空调",
+				"orderIndex": 6,
+				"status": true
+			}
+		]
+	},
+	"errcode": 0,
+	"ret": true,
+	"ver": "1.0"
+}

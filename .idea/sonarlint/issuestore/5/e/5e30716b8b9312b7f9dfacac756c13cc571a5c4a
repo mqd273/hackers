@@ -1,0 +1,12 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(üÜáÊüÿÿÿÿ
+^
+java:S2133"CRemove this object instantiation and use "ArrayList.class" instead.(æ˜ûÇıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(™“×Ÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¾†³Û
+C	java:S108!")Either remove or fill this block of code.(ûË…úşÿÿÿÿ
+L
+java:S1481"6Remove this unused "genericSuperclass" local variable.(×Óº—
+Y
+java:S2133"CRemove this object instantiation and use "ArrayList.class" instead.(Ñíô¢

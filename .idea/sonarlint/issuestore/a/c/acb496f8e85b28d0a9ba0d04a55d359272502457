@@ -1,0 +1,10 @@
+
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(¹›€Úúÿÿÿÿ8§êó•–.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ùž†ÿúÿÿÿÿ
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(Ù­ç¢8¿Ô÷•–.
+D
+java:S1481&"'Remove this unused "s1" local variable.(¢ÚÖ¬8§êó•–.
+Q
+java:S2864%"4Iterate over the "entrySet" instead of the "keySet".(«—‡ä8§êó•–.
+L
+java:S1481/"*Remove this unused "value" local variable.(Óðò£úÿÿÿÿ8´Äö•–.

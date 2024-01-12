@@ -1,0 +1,15 @@
+
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8®ü°ë©.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ÓŸîñùÿÿÿÿ8Ûì…Ú”.
+S	java:S106."9Replace this use of System.out or System.err by a logger.(ÍŠÊ¤üÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÃğÙ
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(É˜ÕÂ8®ü°ë©.
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8®ü°ë©.
+H
+java:S1135"2Complete the task associated to this TODO comment.(Üğ£Å
+>
+java:S1116#"Remove this empty statement.(îòœ€üÿÿÿÿ8®ü°ë©.
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(ş›‹
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ˆªÊ:8Ğí¢Ú”.

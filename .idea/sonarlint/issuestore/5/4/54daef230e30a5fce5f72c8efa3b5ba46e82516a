@@ -1,0 +1,13 @@
+
+F
+java:S1135"2Complete the task associated to this TODO comment.(Üğ£Å
+F
+java:S1481"&Remove this unused "i" local variable.(ğÀäÛûÿÿÿÿ8ûŒãÅÙ.
+P
+java:S1143"5Remove this return statement from this finally block.(”·³›8ÉåÄÅÙ.
+r	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆÒ­øÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(˜½‘8 Ø½ÅÙ.
+R	java:S106"9Replace this use of System.out or System.err by a logger.(¹½÷38øˆ‚·Ù.
+Z
+java:S1118":Add a private constructor to hide the implicit public one.(ÄÅ³şÿÿÿÿ8øˆ‚·Ù.

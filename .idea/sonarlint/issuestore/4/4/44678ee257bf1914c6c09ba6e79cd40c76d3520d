@@ -1,0 +1,18 @@
+
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(š—“¿ÿÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(…æÇ¦
+S	java:S106."9Replace this use of System.out or System.err by a logger.(áŒ•öøÿÿÿÿ
+H
+java:S1135"2Complete the task associated to this TODO comment.(Üğ£Å
+M	java:S106+"9Replace this use of System.out or System.err by a logger.(šü”,
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÃğÙ
+O
+java:S4973"9Use the "equals" method if value comparison was intended.(Ğ×ç
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(šÿ”˜ûÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(…ˆŒÁ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(¿“•¿
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(ÀÜ¨
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(…æÇ¦
+Q
+java:S1128";Remove this unused import 'jdk.nashorn.internal.ir.IfNode'.(ñ¥€
+M	java:S106-"9Replace this use of System.out or System.err by a logger.(šü”,

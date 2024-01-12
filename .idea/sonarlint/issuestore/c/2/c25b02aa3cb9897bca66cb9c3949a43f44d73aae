@@ -1,0 +1,11 @@
+
+W
+java:S1128";Remove this unused import 'javax.crypto.interfaces.PBEKey'.(¤ÿ^8ëûë².
+l
+java:S1104"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿8Ğ™ûë².
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§ª¿²ÿÿÿÿÿ
+p
+java:S1104"NMake dd a static final constant or non-public and provide accessors if needed.(Á‚²Øüÿÿÿÿ8‰šì².
+H
+java:S1135
+"2Complete the task associated to this TODO comment.(Üğ£Å

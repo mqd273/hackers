@@ -1,0 +1,23 @@
+
+G
+java:S1481$"*Remove this unused "bytes" local variable.(ç°Šş8ÍÌ‡š.
+T	java:S1064"9Replace this use of System.out or System.err by a logger.(Öå–48ĞÙÈ‡š.
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(‰®Ìçùÿÿÿÿ8‹ï¥Êœ.
+H
+java:S1135"2Complete the task associated to this TODO comment.(Üğ£Å
+H
+java:S1481B"&Remove this unused "p" local variable.(Ï„¥Èøÿÿÿÿ8ĞÙÈ‡š.
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Å²´?
+h
+java:S3027 "FPut single-quotes around '_' to use the faster "indexOf(char)" method.(¹„‘ëüÿÿÿÿ8¬œÒ‡š.
+I
+java:S1481 "'Remove this unused "i1" local variable.(¹„‘ëüÿÿÿÿ8¬œÒ‡š.
+G
+java:S1481""*Remove this unused "chars" local variable.(«òç¯8Ñ­Ô‡š.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ã¸¬¤ùÿÿÿÿ8‹ï¥Êœ.
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(‘Îéì8£Çû„š.
+C
+java:S1481<"&Remove this unused "m" local variable.(Š–î¤8ĞÙÈ‡š.
+B
+java:S1128",Remove this unused import 'java.util.Queue'.(Äá™ô
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8æÆÜ„š.

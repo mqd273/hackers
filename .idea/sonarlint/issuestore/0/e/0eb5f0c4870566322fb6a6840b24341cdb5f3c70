@@ -1,0 +1,116 @@
+
+7
+java:S1643,"Use a StringBuilder instead.(ç…Šøýÿÿÿÿ
+7
+java:S1643K"Use a StringBuilder instead.(ÅèÀ÷ýÿÿÿÿ
+m	java:S127-"XRefactor the code in order to not assign to this loop counter from within the loop body.(‹ËÈ¬
+r	java:S1271"XRefactor the code in order to not assign to this loop counter from within the loop body.(å´ñÆþÿÿÿÿ
+r	java:S1271"XRefactor the code in order to not assign to this loop counter from within the loop body.(å´ñÆþÿÿÿÿ
+r	java:S1273"XRefactor the code in order to not assign to this loop counter from within the loop body.(½åºúûÿÿÿÿ
+r	java:S1273"XRefactor the code in order to not assign to this loop counter from within the loop body.(½åºúûÿÿÿÿ
+7
+java:S1643,"Use a StringBuilder instead.(ç…Šøýÿÿÿÿ
+7
+java:S1643K"Use a StringBuilder instead.(ÅèÀ÷ýÿÿÿÿ
+m	java:S127-"XRefactor the code in order to not assign to this loop counter from within the loop body.(‹ËÈ¬
+r	java:S1271"XRefactor the code in order to not assign to this loop counter from within the loop body.(å´ñÆþÿÿÿÿ
+r	java:S1271"XRefactor the code in order to not assign to this loop counter from within the loop body.(å´ñÆþÿÿÿÿ
+r	java:S1273"XRefactor the code in order to not assign to this loop counter from within the loop body.(½åºúûÿÿÿÿ
+r	java:S1273"XRefactor the code in order to not assign to this loop counter from within the loop body.(½åºúûÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+I
+java:S1128	".Remove this unused import 'java.util.TreeMap'.(¨éˆèýÿÿÿÿ
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+I
+java:S11211".Extract the assignment out of this expression.(å´ñÆþÿÿÿÿ
+D
+java:S1121O".Extract the assignment out of this expression.(çÂÀÝ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+I
+java:S1128	".Remove this unused import 'java.util.TreeMap'.(¨éˆèýÿÿÿÿ
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+I
+java:S11211".Extract the assignment out of this expression.(å´ñÆþÿÿÿÿ
+D
+java:S1121O".Extract the assignment out of this expression.(çÂÀÝ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(­‹î»
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ü£Ðì
+N	java:S106"9Replace this use of System.out or System.err by a logger.(­‹î»
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ü£Ðì
+7
+java:S1643,"Use a StringBuilder instead.(ç…Šøýÿÿÿÿ
+7
+java:S1643K"Use a StringBuilder instead.(ÅèÀ÷ýÿÿÿÿ
+m	java:S127-"XRefactor the code in order to not assign to this loop counter from within the loop body.(‹ËÈ¬
+r	java:S1271"XRefactor the code in order to not assign to this loop counter from within the loop body.(å´ñÆþÿÿÿÿ
+r	java:S1271"XRefactor the code in order to not assign to this loop counter from within the loop body.(å´ñÆþÿÿÿÿ
+r	java:S1273"XRefactor the code in order to not assign to this loop counter from within the loop body.(½åºúûÿÿÿÿ
+r	java:S1273"XRefactor the code in order to not assign to this loop counter from within the loop body.(½åºúûÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+I
+java:S1128	".Remove this unused import 'java.util.TreeMap'.(¨éˆèýÿÿÿÿ
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+I
+java:S11211".Extract the assignment out of this expression.(å´ñÆþÿÿÿÿ
+D
+java:S1121O".Extract the assignment out of this expression.(çÂÀÝ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(­‹î»
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ü£Ðì
+7
+java:S1643,"Use a StringBuilder instead.(ç…Šøýÿÿÿÿ
+7
+java:S1643K"Use a StringBuilder instead.(ÅèÀ÷ýÿÿÿÿ
+m	java:S127-"XRefactor the code in order to not assign to this loop counter from within the loop body.(‹ËÈ¬
+r	java:S1271"XRefactor the code in order to not assign to this loop counter from within the loop body.(å´ñÆþÿÿÿÿ
+r	java:S1271"XRefactor the code in order to not assign to this loop counter from within the loop body.(å´ñÆþÿÿÿÿ
+r	java:S1273"XRefactor the code in order to not assign to this loop counter from within the loop body.(½åºúûÿÿÿÿ
+r	java:S1273"XRefactor the code in order to not assign to this loop counter from within the loop body.(½åºúûÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+I
+java:S1128	".Remove this unused import 'java.util.TreeMap'.(¨éˆèýÿÿÿÿ
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+I
+java:S11211".Extract the assignment out of this expression.(å´ñÆþÿÿÿÿ
+D
+java:S1121O".Extract the assignment out of this expression.(çÂÀÝ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(­‹î»
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ü£Ðì
+7
+java:S1643,"Use a StringBuilder instead.(ç…Šøýÿÿÿÿ
+7
+java:S1643K"Use a StringBuilder instead.(ÅèÀ÷ýÿÿÿÿ
+m	java:S127-"XRefactor the code in order to not assign to this loop counter from within the loop body.(‹ËÈ¬
+r	java:S1271"XRefactor the code in order to not assign to this loop counter from within the loop body.(å´ñÆþÿÿÿÿ
+r	java:S1271"XRefactor the code in order to not assign to this loop counter from within the loop body.(å´ñÆþÿÿÿÿ
+r	java:S1273"XRefactor the code in order to not assign to this loop counter from within the loop body.(½åºúûÿÿÿÿ
+r	java:S1273"XRefactor the code in order to not assign to this loop counter from within the loop body.(½åºúûÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+I
+java:S1128	".Remove this unused import 'java.util.TreeMap'.(¨éˆèýÿÿÿÿ
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+I
+java:S11211".Extract the assignment out of this expression.(å´ñÆþÿÿÿÿ
+D
+java:S1121O".Extract the assignment out of this expression.(çÂÀÝ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(­‹î»
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ü£Ðì
