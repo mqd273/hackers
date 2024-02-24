@@ -1,4 +1,4 @@
-package com.tujia.leetcode;
+package wang.lidong.leetcode;
 
 import com.google.common.base.Strings;
 import org.apache.commons.lang3.StringUtils;

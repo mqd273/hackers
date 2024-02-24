@@ -1,4 +1,4 @@
-package com.tujia.leetcode;
+package wang.lidong.leetcode;
 
 /**
  * @Author:lidongw_1

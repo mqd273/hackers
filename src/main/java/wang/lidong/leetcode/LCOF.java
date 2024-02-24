@@ -1,4 +1,4 @@
-package com.tujia.leetcode;
+package wang.lidong.leetcode;
 
 import java.util.ArrayList;
 import java.util.Collection;
